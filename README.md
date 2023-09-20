@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hey there!
 
-<!--
-**chuckn246/chuckn246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chuck, an AWS Cloud / Linux Systems Administrator who lives in Ohio.
 
-Here are some ideas to get you started:
+I really enjoy figuring out how to make things work and writing documentation to go along with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills
+- Linux System Administration
+- AWS Cloud System Administration
+- Ansible Automation
+- Bash Scripting
+- Python Scripting
+
+
+### Certifications
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/5f9b418b-5845-4205-8b6a-42dca7ffed4e/public_url)
+
+
+### Contact
+Always open to meeting new folks to help or collab with!
